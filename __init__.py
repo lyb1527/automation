@@ -1,9 +1,3 @@
-# Loong 2.1
-
-# Author: Yingjun Li <yjli@vmware.com>
-# Copyright: Copyright (c) 2011-12 VMware, Inc. All Rights Reserved.
-# License: MIT license
-
 # http://ldtp.freedesktop.org
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
